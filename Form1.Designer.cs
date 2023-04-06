@@ -147,7 +147,7 @@
             this.Controls.Add(this.toComboBox);
             this.Controls.Add(this.fromComboBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Currency Converter";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
